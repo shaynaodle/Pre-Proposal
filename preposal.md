@@ -1,13 +1,17 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-First 
-TODO
+Games
+- Adventure
+  - Quest like tasks, and rewards for completing quest.
+- Comical
+- Word Games
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Juliah Tran
+Alan Bounchanavong
 
 ## Do you have any questions of your own?
+Not yet
 
-TODO
